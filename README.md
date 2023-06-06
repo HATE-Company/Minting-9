@@ -1,2 +1,12 @@
 # Minting-9
 Minting 9 | ibrahim - IbrahimFareed#6508
+
+Figma Design File: https://www.figma.com/file/2uH4hqiyQBsi5zTdGdxXQP/Hate-Company-Design-Case?type=design&node-id=313-147&t=9jSQhuVhLVcoLpWn-0
+
+Prototype: https://www.figma.com/proto/2uH4hqiyQBsi5zTdGdxXQP/Hate-Company-Design-Case?type=design&node-id=313-147&scaling=scale-down-width&page-id=0%3A1
+
+Please note that we expect the responsive delivery of the submitted design. To grant you access to the Figma file, I have added your email address. If you can provide your GitHub username, I will invite you to the repository.
+
+You can use frameworks like react/next/tailwindcss. Please add your live link to repo. 
+
+Deadline: June 16, 2023 
